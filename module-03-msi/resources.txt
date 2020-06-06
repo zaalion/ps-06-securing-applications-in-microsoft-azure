@@ -1,0 +1,18 @@
+Resources for MSI
+-----------------
+
+https://docs.microsoft.com/en-us/azure/active-directory/managed-identities-azure-resources/overview
+https://docs.microsoft.com/en-us/azure/active-directory/managed-identities-azure-resources/services-support-managed-identities
+https://docs.microsoft.com/en-us/azure/active-directory/managed-identities-azure-resources/services-support-managed-identities#azure-services-that-support-azure-ad-authentication
+https://docs.microsoft.com/en-us/azure/app-service/overview-managed-identity
+https://docs.microsoft.com/en-us/azure/app-service/overview-managed-identity#obtaining-tokens-for-azure-resources
+https://docs.microsoft.com/en-us/azure/app-service/overview-managed-identity#asal
+https://docs.microsoft.com/en-us/azure/logic-apps/create-managed-service-identity
+
+Key Vault References
+--------------------
+https://docs.microsoft.com/en-us/azure/app-service/app-service-key-vault-references
+
+
+
+

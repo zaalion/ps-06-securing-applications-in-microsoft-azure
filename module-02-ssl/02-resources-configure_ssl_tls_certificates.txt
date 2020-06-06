@@ -1,0 +1,12 @@
+Resources for Configure TLS/SSL certificates
+--------------------------------------------
+
+https://docs.microsoft.com/en-us/azure/app-service/app-service-web-tutorial-custom-domain
+https://docs.microsoft.com/en-us/azure/app-service/web-sites-purchase-ssl-web-site 
+https://docs.microsoft.com/en-us/azure/app-service/app-service-web-ssl-cert-load
+https://docs.microsoft.com/en-us/azure/app-service/app-service-web-tutorial-custom-ssl
+https://docs.microsoft.com/en-us/azure/app-service/scripts/powershell-configure-ssl-certificate
+
+
+
+

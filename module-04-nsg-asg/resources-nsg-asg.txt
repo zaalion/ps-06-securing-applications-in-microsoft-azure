@@ -1,0 +1,14 @@
+To read more about NSGs and ASG please refer to the following:
+--------------------------------------------------------------
+
+https://azure.microsoft.com/en-ca/blog/applicationsecuritygroups/
+https://docs.microsoft.com/en-us/azure/virtual-network/manage-network-security-group
+https://docs.microsoft.com/en-us/azure/virtual-network/security-overview
+https://docs.microsoft.com/en-us/azure/virtual-network/virtual-network-for-azure-services#services-that-can-be-deployed-into-a-virtual-network
+https://docs.microsoft.com/en-us/azure/virtual-network/virtual-network-for-azure-services
+https://docs.microsoft.com/en-us/azure/virtual-network/security-overview#application-security-groups
+https://docs.microsoft.com/en-us/azure/virtual-network/tutorial-filter-network-traffic
+https://docs.microsoft.com/en-us/azure/virtual-network/virtual-network-vnet-plan-design-arm
+https://docs.microsoft.com/en-us/azure/security-center/security-center-enable-network-security-groups
+https://docs.microsoft.com/en-us/azure/virtual-network/tutorial-filter-network-traffic
+

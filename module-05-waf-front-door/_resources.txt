@@ -1,0 +1,62 @@
+Please use the following resources to read more about Front Door and Application Gateway
+----------------------------------------------------------------------------------------
+
+Application Gateway and WAF
+---------------------------
+https://docs.microsoft.com/en-us/azure/application-gateway/waf-overview
+https://docs.microsoft.com/en-us/azure/application-gateway/application-gateway-customize-waf-rules-portal
+https://docs.microsoft.com/en-us/azure/application-gateway/application-gateway-diagnostics
+https://docs.microsoft.com/en-us/azure/application-gateway/tutorial-restrict-web-traffic-powershell
+https://docs.microsoft.com/en-us/azure/application-gateway/tutorial-restrict-web-traffic-cli
+https://docs.microsoft.com/en-us/azure/application-gateway/configure-web-app-portal
+https://docs.microsoft.com/en-us/azure/application-gateway/application-gateway-web-application-firewall-portal
+https://docs.microsoft.com/en-us/azure/application-gateway/application-gateway-autoscaling-zone-redundant
+https://docs.microsoft.com/en-us/azure/application-gateway/application-gateway-integration-security-center
+
+
+Azure Front Door
+----------------
+https://www.youtube.com/watch?v=3Di9H1V0zuc
+https://azure.microsoft.com/en-ca/blog/announcing-public-preview-of-azure-front-door-service/
+https://docs.microsoft.com/en-us/azure/frontdoor/front-door-overview
+https://docs.microsoft.com/en-us/azure/frontdoor/quickstart-create-front-door
+https://docs.microsoft.com/en-ca/azure/frontdoor/front-door-custom-domain
+https://docs.microsoft.com/en-us/azure/frontdoor/waf-front-door-create-portal
+https://docs.microsoft.com/en-ca/azure/frontdoor/
+https://docs.microsoft.com/en-us/azure/frontdoor/front-door-overview
+https://docs.microsoft.com/en-us/azure/virtual-network/ddos-protection-overview
+https://azure.microsoft.com/en-us/services/frontdoor/
+
+
+Restrict app service access
+---------------------------
+https://docs.microsoft.com/en-us/azure/application-gateway/create-web-app
+https://docs.microsoft.com/en-us/azure/app-service/app-service-ip-restrictions
+
+
+Update and fault domains
+------------------------
+https://docs.microsoft.com/en-us/azure/virtual-machines/windows/manage-availability
+
+
+WAF Custom Firewall Rules
+-------------------------
+https://docs.microsoft.com/en-us/azure/web-application-firewall/ag/custom-waf-rules-overview
+https://docs.microsoft.com/en-us/azure/web-application-firewall/ag/configure-waf-custom-rules
+https://docs.microsoft.com/en-us/azure/web-application-firewall/ag/create-custom-waf-rules
+https://docs.microsoft.com/en-us/azure/web-application-firewall/ag/application-gateway-customize-waf-rules-powershell
+https://docs.microsoft.com/en-us/powershell/module/az.network/set-azapplicationgatewayfirewallpolicy?view=azps-3.7.0
+
+
+Azure Sentinel and WAF
+----------------------
+https://docs.microsoft.com/en-us/azure/sentinel/connect-microsoft-waf
+https://docs.microsoft.com/en-us/azure/sentinel/overview
+https://docs.microsoft.com/en-us/azure/sentinel/quickstart-get-visibility
+https://docs.microsoft.com/en-us/azure/sentinel/tutorial-detect-threats-built-in
+
+
+
+
+
+

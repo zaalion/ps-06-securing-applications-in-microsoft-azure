@@ -1,0 +1,8 @@
+Other Pluralsight Cources on Azure Application Security
+-------------------------------------------------------
+
+- https://app.pluralsight.com/library/courses/microsoft-azure-security-getting-started/table-of-contents
+- https://app.pluralsight.com/library/courses/microsoft-azure-data-securing/table-of-contents
+- https://app.pluralsight.com/library/courses/microsoft-azure-authentication-scenarios-developers/table-of-contents- 
+
+
